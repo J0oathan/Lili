@@ -15,7 +15,7 @@ function getRandomNumber() {
   return Math.floor(Math.random() * colorsArray.length);
 }
 
-console.log('Mensaje de Jona');
+console.log('Mensaje de Jonathan');
 
 /*const COLORS = ["green", "red", "rgba(133,122,200)", "#f15025"];
 const btn = document.getElementById("btn");
